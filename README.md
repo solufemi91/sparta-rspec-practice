@@ -11,3 +11,11 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 ## What I found difficult
 
 I found it difficult to implement the sum method on the array and so I had to use a different code that was not as dry.
+
+## Instructions on how to run the test
+
+From the root directory, run the following command in the terminal: ```cd euler_q2```. Then run the command ```rspec```.
+
+## Cheatsheet
+
+Here is a link to the rspec cheatsheet:https://gist.github.com/eliotsykes/5b71277b0813fbc0df56

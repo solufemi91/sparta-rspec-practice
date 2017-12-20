@@ -23,8 +23,9 @@ class Euler_q2
       end
    end
    # a variable that is used to return the sum of all the eve numbers in an array
-   sum = 0
-   @fibonacciEvenNumbers.each { |a| sum+=a }
-   sum
+  #  sum = 0
+  #  @fibonacciEvenNumbers.each { |a| sum+=a }
+  #  sum
+  @fibonacciEvenNumbers.sum
   end
 end
